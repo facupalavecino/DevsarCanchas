@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+Scripts
+Lib
+db.sqlite3
+pyvenv.cfg
+.idea
+__pycache__
